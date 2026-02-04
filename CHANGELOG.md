@@ -1,9 +1,8 @@
 # Changelog
 
-## [1.0.0] - 2026-02-04
+## [0.1.0-beta.1] - 2026-02-04
 ### Added
-- Eerste publieke versie
-- Automatische updates via Velopack
+- Eerste publieke beta
 
 ### Fixed
 - —
